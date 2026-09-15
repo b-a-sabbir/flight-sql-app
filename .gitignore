@@ -1,0 +1,5 @@
+plans.txt
+.env
+.streamlit/secrets.toml
+myenv/
+__pycache__/
